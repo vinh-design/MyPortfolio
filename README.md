@@ -7,11 +7,11 @@ This website showcases my work as a **UX/UI Designer**, including web and mobile
 Check out the live website here: [https://www.vinhdesign.co.uk](https://www.vinhdesign.co.uk)
 
 ## 📂 Project Structure
-/index.html → Main page
-/css/ → Stylesheets
-/js/ → JavaScript files
-/media/ → Project images and assets
-/icons/ → Project icons set
+- /index.html → Main page
+- /css/ → Stylesheets
+- /js/ → JavaScript files
+- /media/ → Project images and assets
+- /icons/ → Project icons set
 
 ## 🛠 Tech Stack
 - **HTML5 & CSS3** – structure and styling
